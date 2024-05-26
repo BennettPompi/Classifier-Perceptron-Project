@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BP",
+            "request": "launch",
+            "mainClass": "BP",
+            "args": "-J 5 -t ./xor.dta -T ./xor.dta",
+            "projectName": "p4_b69b4db7"
+        },
+        {
+            "type": "java",
+            "name": "Perceptron",
+            "request": "launch",
+            "mainClass": "Perceptron",
+            "args": "-t /Users/bennettpompi/AI/p4/monks1.tr.dta -T /Users/bennettpompi/AI/p4/monks1.te.dta",
+            "projectName": "p4_b69b4db7"
+        }
+    ]
+}

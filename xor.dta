@@ -1,0 +1,11 @@
+% xor-homogeneous
+
+% x1 numeric
+% x2 numeric
+% bias numeric
+% y -1 (false) +1 (true)
+
+0.0 0.0 -1.0 -1
+0.0 1.0 -1.0 +1
+1.0 0.0 -1.0 +1
+1.0 1.0 -1.0 -1
