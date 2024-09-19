@@ -135,6 +135,5 @@ public class Perceptron extends Classifier {
             }
             epochs++; 
         }
-        //System.out.println("Converged after " + epochs + " epochs");
     }
 } // Perceptron class

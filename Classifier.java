@@ -9,8 +9,6 @@ import java.util.Random;
 
 public abstract class Classifier {
 
-  // Do not seed the random-number generator because we want random
-  // restarts for the back-propagation algorithm.
   protected Random random = new Random();
   protected DecimalFormat df = new DecimalFormat( ".000" );
 
