@@ -1,8 +1,3 @@
-/*
- * Classifier.java
- * Copyright (c) 2024 Marcus A. Maloof.  All Rights Reserved.  See LICENSE.
- */
-
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Random;

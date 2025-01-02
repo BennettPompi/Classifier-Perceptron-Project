@@ -1,8 +1,3 @@
-/*
- * Perceptron.java
- * Copyright (c) 2024 Marcus A. Maloof.  All Rights Reserved.  See LICENSE.
- */
-
 import java.util.ArrayList;
 
 public class Perceptron extends Classifier {

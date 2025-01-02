@@ -1,8 +1,3 @@
-/*
- * DataSet.java
- * Copyright (c) 2024 Marcus A. Maloof.  All Rights Reserved.  See LICENSE.
- */
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;

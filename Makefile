@@ -13,7 +13,7 @@ all:$(OBJS)
 
 # modify the zip command so it's appropriate for your project
 submit:
-	zip submit.zip $(SRCS) Makefile HONOR
+	zip submit.zip $(SRCS) Makefile README.md
 clean:
 	rm -f *.class
 
